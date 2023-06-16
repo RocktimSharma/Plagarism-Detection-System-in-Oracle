@@ -22,7 +22,7 @@ done by the students.
 
 
 # BENEFITS
-###
+### Some of the benifits of this system are:
   ➢ Promotes Academic Integrity.
   ➢ Saves Time and Effort.
   ➢ Enhances Credibility and Quality.
@@ -34,13 +34,13 @@ done by the students.
 
 # METHODOLOGY
 
-## 1.Data Preparation:
+## 1. Data Preparation:
     ➢ Store the assignment to be checked for plagiarism in a table, with each
-      document stored as a separate row.
+      a document stored as a separate row.
     ➢ Split each assignment text into individual words or tokens and store them
       in a separate table.
 
-## 2.Jaccard Similarity Calculation:
+## 2. Jaccard Similarity Calculation:
     ➢ Create a function in Oracle that calculates the Jaccard similarity between
       two sets of tokens.
     ➢ The Jaccard similarity between two sets A and B is calculated as the ratio
@@ -49,7 +49,7 @@ done by the students.
     ➢ You can use nested queries and aggregate functions in Oracle to calculate
       the intersection and union of the token sets.
       
-## 3.Plagiarism Detection Query:
+## 3. Plagiarism Detection Query:
     ➢ Write a query to compare a given assignment with all other assignments
       in the table.
     ➢ Calculate the Jaccard similarity between the tokens of the given
@@ -63,6 +63,6 @@ done by the students.
   enhancement, educational support, and improved evaluation practices. By
   utilizing these systems, individuals and institutions can foster a culture of
   originality, integrity, and responsible writing while ensuring the quality and
-  authenticity of their work. Plagiarism Detection Systems save time and
-  effort by automating the detection process, providing quick and accurate
+  the authenticity of their work. Plagiarism Detection Systems save time and
+  an effort by automating the detection process, providing quick and accurate
   results.
