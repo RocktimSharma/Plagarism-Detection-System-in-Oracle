@@ -16,9 +16,9 @@ done by the students.
 
 # OBJECTIVES
   The main objectives of this system are:
-    ➢ Store the details of the students (such as department, semester, etc)
-    ➢ Store the assignments submitted by the students.
-    ➢ Check plagiarism for the work submitted by students.
+      ➢ Store the details of the students (such as department, semester, etc)
+      ➢ Store the assignments submitted by the students.
+      ➢ Check plagiarism for the work submitted by students.
 
 
 # BENEFITS
