@@ -1,0 +1,10 @@
+SUB_ID,SUB_NAME
+7,DBMS
+6,Assamese
+8,Computer Networks
+10,Java Programming
+9,Advance Data Structure
+2,Maths
+3,English
+4,Computer Science
+5,Hindi

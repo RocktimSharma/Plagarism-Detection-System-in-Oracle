@@ -1,0 +1,7 @@
+DEPT_ID,DEPT_NAME,TOTAL_SEM
+1,MCA,4
+2,Btech CSE,8
+23,Btech Mech,8
+24,BCA,6
+25,Btech Civil,8
+26,Btech Electrical,8
